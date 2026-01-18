@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8yd3doYjZ0ZzYzaGcxd2ZoeTV2dDhvaWo3cDJwcHF6eHM0MWZ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TxVVB6PfWMjE4/giphy.gif");
+}
+
+p{
+    font-family: "Libre Caslon Text", serif;
+    color:rgb(217, 177, 255);
+    font-size:larger
+}
+h1{
+    font-family: "Honk", system-ui;
+    font-size: 100px;
+    margin-bottom: -20px;
+}
